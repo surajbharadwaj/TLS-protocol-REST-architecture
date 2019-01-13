@@ -7,6 +7,7 @@ java ver 8
 TLS client and TLS server.
 
 This project demonstrates complete TLS protocol (TLS handshake process) and also record layer protocol.
-The procedure to run the jar file in documented in the word file and screenshots detailing steps are attached. wireshark is used to capture the packets
+The procedure to run the jar file is documented in the word file and screenshots detailing steps are attached. Wireshark is used to capture the packets
+To capture on local interface install npcap adaptor.
 
 Each time data is encrypted differently after the handshake process.
